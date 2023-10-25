@@ -1,0 +1,23 @@
+{
+  "env": {
+    "debug": {
+      "params": {
+        },
+        "users": {
+          "admin": {
+          }
+        }
+      }
+    },
+    "dev": {
+      "params": {
+        },
+        "users": {
+          "admin": {
+
+          }
+        }
+      }
+    }
+  }
+}

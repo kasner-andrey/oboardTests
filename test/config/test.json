@@ -5,8 +5,8 @@
 
   "users": {
     "owner": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "Andrey",
+      "lastName": "Kasner",
       "email": "",
       "password": ""
     },

@@ -5,10 +5,10 @@
 
   "users": {
     "owner": {
-      "firstName": "Andrey",
-      "lastName": "Kasner",
-      "email": "a.v.kasner@gmail.com",
-      "password": "Kasner1985"
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": ""
     },
     "coworker1": {
       "email": "something@email.com",
